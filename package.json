@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.2",
+    "twitter": "^1.7.1"
+  },
+  "type": "module"
+}
